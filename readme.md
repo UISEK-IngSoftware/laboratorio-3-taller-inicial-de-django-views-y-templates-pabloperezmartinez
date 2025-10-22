@@ -11,7 +11,7 @@ El estudiante debe ser capaz de reconocer y aplicar conceptos básicos del Parad
 ## Datos del estudiante
 - Nombre del estudiante: Pablo Pérez Martínez
 - Nivel: Docente
-- Carrera: Ing. Informática
+- Carrera: Ing. de Sofware
 
 ## Tareas a realizar
 1. Crear la aplicación para la gestión de Pokemones
